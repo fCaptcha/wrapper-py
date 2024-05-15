@@ -14,6 +14,7 @@ Refer to `test.py` to know how to use.
 pip install fcaptcha
 ```
 
-Credits
+# Credits
+
 [body](https://github.com/BodyAlhoha)<br>
 [alluding](https://github.com/alluding) (repo idea)
